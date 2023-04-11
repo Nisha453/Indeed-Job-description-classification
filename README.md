@@ -1,1 +1,3 @@
 # Indeed-Job-description-classification
+
+The classification of job postings is a challenging task as job titles may not accurately reflect the duties and requirements of the role. This paper proposes an approach for classifying data science job postings on Indeed dataset by identifying the latent job duties and skill requirements using unsupervised topic modeling and natural language processing (NLP). For classification, Latent Dirichlet Allocation (LDA) method is used to extract topics from job postings and identify the underlying job duties and skills required for each posting. Topic coherence is used to evaluate the approach.
